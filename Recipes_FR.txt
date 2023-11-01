@@ -1,0 +1,18 @@
+Recipe_FR = {
+	Recipe_Dismantle_Performance_Valu_4_Tire_Axle = "Démonter",
+	Recipe_Dismantle_Performance_Valu_Double_Tires = "Démonter",
+	Recipe_Dismantle_Regular_Valu_4_Tire_Axle = "Démonter",
+	Recipe_Dismantle_Regular_Valu_Double_Tires = "Démonter",
+	Recipe_Dismantle_Valu_4_Tire_Axle = "Démonter",
+	Recipe_Dismantle_Valu_Double_Tires = "Démonter",
+	Recipe_Make_Performance_4_Tire_Axle = "Fabriquer un essieu de pneu Quadruple performant",
+	Recipe_Make_Performance_Double_Tires = "Fabriquer des pneus double performant",
+	Recipe_Make_Regular_4_Tire_Axle = "Fabriquer un essieu de pneu Quadruple standard",
+	Recipe_Make_Regular_Double_Tires = "Fabriquer des pneus double standard",
+	Recipe_Make_Valu_4_Tire_Axle = "Fabriquer un essieu de pneu Quadruple usé",
+	Recipe_Make_Valu_Double_Tires = "Fabriquer des pneus double usés",
+	Recipe_Make_W900_Bullbar = "Fabriquer un pare-buffle",
+	Recipe_Make_W900_Front_Door_Armor = "Fabriquer une armure de porte",
+	Recipe_Make_W900_Makeshift_Rear_Windshield_Armor = "Fabriquer une armure de pare-brise arrière",
+	Recipe_Make_W900_Makeshift_Windshield_Armor = "Fabriquer une armure de pare-brise",
+}
