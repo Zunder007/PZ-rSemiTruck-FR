@@ -1,0 +1,17 @@
+ItemName_FR = {
+   ItemName_Rotators.DoubleOldTire2 = "Pneu double Usé",
+   ItemName_Rotators.DoubleNormalTire2 = "Pneu double Standard",
+   ItemName_Rotators.DoubleModernTire2 = "Pneu double Performant",
+   ItemName_Rotators.AxleOldTire2 = "Essieu de pneu Quadruple Usé",
+   ItemName_Rotators.AxleNormalTire2 = "Essieu de pneu Quadruple Standard",
+   ItemName_Rotators.AxleModernTire2 = "Essieu de pneu Quadruple Performant",
+   
+   ItemName_Rotators.SemiTruckBullbar_Item2 = "W900 Pare-buffle",
+   ItemName_Rotators.SemiTruckArmorDoor_Item2 = "W900 Armure de porte",
+   ItemName_Rotators.SemiTruckArmorFront_Item2 = "W900 Armure avant",
+   ItemName_Rotators.SemiTruckArmorRear_Item2 = "W900 Armure arrière",
+
+	ItemName_Rotators.750Tank2 = "Réservoir",
+	ItemName_RotatorsClothing.Hat_BaseballCapRotators = "Casquette des Rotators",
+	ItemName_RotatorsClothing.Hat_BaseballCapRotators_Reverse = "Casquette des Rotators",
+}
