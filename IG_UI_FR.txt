@@ -1,0 +1,25 @@
+IG_UI_FR = {
+   IGUI_VehicleNameSemiTruck = "W900 Camion Top Flat",
+   IGUI_VehicleNameSemiTruckLite = "W900 Camion Day Cab",
+   IGUI_VehicleNameSemiTruckBox = "W900 Camion Fourgon",
+   
+   IGUI_VehicleNameSemiTrailerVan = "Remorque",
+   IGUI_VehicleNameSemiTrailerCistern = "Camion-citerne",
+   
+   IGUI_VehiclePartSpareTire = "Pneu de rechange",
+   IGUI_VehiclePartTrunkToolbox = "Boîte à outils",
+   IGUI_VehiclePartToolboxDoor = "Fermeture de Boîte à outils",
+   IGUI_Vehicle_CondInfoToolboxDoor = "Une fermeture de boîte à outils endommagée peut entraîner la chute d'objets de votre véhicule.",
+   IGUI_VehiclePartRefrigeratorUnit = "Réfrigérateur",
+   IGUI_VehiclePart750FuelTank = "Réservoir",
+   IGUI_VehiclePartTrunkLeft = "Coffre gauche",
+   IGUI_Vehicle_CondInfoTrunkLeft = "Les coffres endommagés et déformés ont moins de capacité de stockage.",
+   IGUI_VehiclePartTrunkDoorLeft = "Fermeture gauche de coffre",
+   IGUI_Vehicle_CondInfoTrunkDoorLeft = "Une fermeture de coffre endommagée peut entraîner la chute d'objets de votre véhicule.",
+
+   IGUI_VehiclePartArmorFront = "Armure de pare-brise",
+   IGUI_VehiclePartArmorRear = "Armure de pare-brise arrière",
+   IGUI_VehiclePartArmorDoorL = "Armure de porte avant gauche",
+   IGUI_VehiclePartArmorDoorR = "Armure de porte avant droite",
+   IGUI_VehiclePartArmorBullbar = "Pare-buffle",
+}
