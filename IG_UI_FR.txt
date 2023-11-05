@@ -6,7 +6,7 @@ IG_UI_FR = {
    IGUI_VehicleNameSemiTrailerVan = "Remorque",
    IGUI_VehicleNameSemiTrailerCistern = "Camion-citerne",
    
-   IGUI_VehiclePartSpareTire = "Pneu de rechange",
+   IGUI_VehiclePartSpareTire = "Pneu de secours",
    IGUI_VehiclePartTrunkToolbox = "Boîte à outils",
    IGUI_VehiclePartToolboxDoor = "Fermeture de Boîte à outils",
    IGUI_Vehicle_CondInfoToolboxDoor = "Une fermeture de boîte à outils endommagée peut entraîner la chute d'objets de votre véhicule.",
@@ -17,9 +17,12 @@ IG_UI_FR = {
    IGUI_VehiclePartTrunkDoorLeft = "Fermeture gauche de coffre",
    IGUI_Vehicle_CondInfoTrunkDoorLeft = "Une fermeture de coffre endommagée peut entraîner la chute d'objets de votre véhicule.",
 
-   IGUI_VehiclePartArmorFront = "Armure de pare-brise",
-   IGUI_VehiclePartArmorRear = "Armure de pare-brise arrière",
-   IGUI_VehiclePartArmorDoorL = "Armure de porte avant gauche",
-   IGUI_VehiclePartArmorDoorR = "Armure de porte avant droite",
+   IGUI_VehiclePartArmorFront = "Blindage de pare-brise",
+   IGUI_VehiclePartArmorRear = "Blindage de pare-brise arrière",
+   IGUI_VehiclePartArmorDoorL = "Blindage de porte avant gauche",
+   IGUI_VehiclePartArmorDoorR = "Blindage de porte avant droite",
    IGUI_VehiclePartArmorBullbar = "Pare-buffle",
+
+	IGUI_CraftCategory_Mechanical = "Mécanique Poids lourd",
+	IGUI_CraftCategory_W900 = "W900 Semi-remorque",
 }
