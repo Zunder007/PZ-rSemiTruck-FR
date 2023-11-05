@@ -12,7 +12,7 @@ Recipe_FR = {
 	Recipe_Make_Valu_4_Tire_Axle = "Fabriquer un essieu de pneu Quadruple usé",
 	Recipe_Make_Valu_Double_Tires = "Fabriquer des pneus double usés",
 	Recipe_Make_W900_Bullbar = "Fabriquer un pare-buffle",
-	Recipe_Make_W900_Front_Door_Armor = "Fabriquer une armure de porte",
-	Recipe_Make_W900_Makeshift_Rear_Windshield_Armor = "Fabriquer une armure de pare-brise arrière",
-	Recipe_Make_W900_Makeshift_Windshield_Armor = "Fabriquer une armure de pare-brise",
+	Recipe_Make_W900_Front_Door_Armor = "Fabriquer une porte blindée",
+	Recipe_Make_W900_Makeshift_Rear_Windshield_Armor = "Fabriquer un blindage de pare-brise arrière",
+	Recipe_Make_W900_Makeshift_Windshield_Armor = "Fabriquer un blindage de pare-brise",
 }
